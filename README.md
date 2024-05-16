@@ -11,9 +11,9 @@ Utilizes the List view to display the links in a clean and organized manner
 
 # Installation and Setup
 
-**1.Clone the repository:**
+**1.Download the file:**
    
-(git clone https://github.com/your-username/ios-dashboard-app.git)
+(https://github.com/Asritha10/ios_development)
 
 **2. Open the project in Xcode:**
 
