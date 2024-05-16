@@ -25,7 +25,7 @@ Open the IOS development.xcodeproj file located in the cloned repository.
 In the Xcode toolbar, click the "Play" button (the triangle icon) to build and run the app.
 The app will launch in the selected simulator or on a connected physical iOS device.
 
-# Dependencies
+# Frameworks
 
 This project uses only the standard iOS SDK frameworks and does not require any external dependencies. The key frameworks used are:
 
