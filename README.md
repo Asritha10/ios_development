@@ -29,21 +29,21 @@ The app will launch in the selected simulator or on a connected physical iOS dev
 
 This project uses only the standard iOS SDK frameworks and does not require any external dependencies. The key frameworks used are:
 
-SwiftUI: For building the user interface
-Foundation: For core programming tasks, such as networking and data handling
-Charts: For the chart visualization
+##### `SwiftUI: For building the user interface` 
+##### `Foundation: For core programming tasks, such as networking and data handling`
+##### `Charts: For the chart visualization`
 
 # Project Structure
 
 The project is organized into the following files and folders:
 
-IOS_developmentApp.swift: The main app entry point.
-ContentView.swift: The initial view of the application.
-DashboardView.swift: The main dashboard view.
-DashboardViewModel.swift: The view model that handles the data and logic for the dashboard.
-DashboardModels.swift: The data models used in the application.
-NetworkClient.swift: The network client that fetches the data from the API.
-ChartView.swift: The custom view for displaying the chart.
+#### `IOS_developmentApp.swift: The main app entry point.`
+#### `ContentView.swift: The initial view of the application.`
+#### `DashboardView.swift: The main dashboard view.`
+#### `DashboardViewModel.swift: The view model that handles the data and logic for the dashboard.`
+#### `DashboardModels.swift: The data models used in the application.`
+#### `NetworkClient.swift: The network client that fetches the data from the API.`
+#### `ChartView.swift: The custom view for displaying the chart.`
 
 # Contributing
 If you find any issues or have suggestions for improvements, feel free to open a new issue or submit a pull request. Contributions are welcome!
